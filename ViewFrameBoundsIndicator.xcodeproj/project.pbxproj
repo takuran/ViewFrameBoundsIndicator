@@ -14,6 +14,7 @@
 		6E86CE2A1D03194A00610663 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E86CE281D03194A00610663 /* LaunchScreen.storyboard */; };
 		6E86CE351D03194C00610663 /* ViewFrameBoundsIndicatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E86CE341D03194C00610663 /* ViewFrameBoundsIndicatorTests.swift */; };
 		6E86CE401D03194C00610663 /* ViewFrameBoundsIndicatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E86CE3F1D03194C00610663 /* ViewFrameBoundsIndicatorUITests.swift */; };
+		6E86CE521D0C058800610663 /* C789_unitoikuramaguro_TP_V.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E86CE511D0C058800610663 /* C789_unitoikuramaguro_TP_V.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6E86CE3B1D03194C00610663 /* ViewFrameBoundsIndicatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViewFrameBoundsIndicatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E86CE3F1D03194C00610663 /* ViewFrameBoundsIndicatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewFrameBoundsIndicatorUITests.swift; sourceTree = "<group>"; };
 		6E86CE411D03194C00610663 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E86CE511D0C058800610663 /* C789_unitoikuramaguro_TP_V.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = C789_unitoikuramaguro_TP_V.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		6E86CE1E1D03194900610663 /* ViewFrameBoundsIndicator */ = {
 			isa = PBXGroup;
 			children = (
+				6E86CE511D0C058800610663 /* C789_unitoikuramaguro_TP_V.jpg */,
 				6E86CE1F1D03194900610663 /* AppDelegate.swift */,
 				6E86CE211D03194900610663 /* ViewController.swift */,
 				6E86CE231D03194900610663 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				6E86CE2A1D03194A00610663 /* LaunchScreen.storyboard in Resources */,
 				6E86CE271D03194A00610663 /* Assets.xcassets in Resources */,
 				6E86CE251D03194900610663 /* Main.storyboard in Resources */,
+				6E86CE521D0C058800610663 /* C789_unitoikuramaguro_TP_V.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
